@@ -16,7 +16,7 @@ You can put a little blurb here to explain section 1.
 Note that this link will not work unless you push it to the public repo.
 
 <br>
-<img src="./img050.jpeg" width=4in>
+<img src="img050.jpeg" width=4in>
 <center>You can be cool and put an undertitle here.</center>
 </img>
 <br>
