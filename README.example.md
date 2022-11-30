@@ -8,7 +8,7 @@ You can also add a link here to go directly to the page.
 
 You can put a little blurb here to explain section 1
 <br>
-<img src="./img025.jpeg" width=4in><center>You can be cool and put an undertitle here.</center></img>
+<img src="img025.jpeg?raw=true" width=4in><center>You can be cool and put an undertitle here.</center></img>
 
 # Section 1
 
