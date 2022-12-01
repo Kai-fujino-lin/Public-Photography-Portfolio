@@ -57,3 +57,5 @@ Around the start of freshman year of high school, my mother and step father deci
 [Beach Side of the Harbor](IMG_1789.JPG)
 <br>
 [Dreary Fog](IMG_1767.JPG)
+
+Here is the link for [my portfolio](https://github.com/Kai-fujino-lin/Public-Photography-Portfolio/blob/main/README.example.md)
