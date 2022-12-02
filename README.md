@@ -63,4 +63,4 @@ Around the start of freshman year of high school, my mother and step father deci
 Here is the link for [my portfolio](https://github.com/Kai-fujino-lin/Public-Photography-Portfolio/).
 Also, I've included a QR code for easy sharing.
 
-![my portfolio](img/kai_public_photo_qr_code.png)
+![my portfolio](img/kai_qr_code.png)
